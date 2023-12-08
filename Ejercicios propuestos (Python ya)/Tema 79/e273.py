@@ -1,7 +1,7 @@
 '''
 Abrir un archivo de texto con el parámetro "r+", imprimir su contenido actual y agregar luego dos líneas al final.
 '''
-archivo=open("datos.txt","r+") 
+archivo=open("datos6.txt","r+") 
 contenido=archivo.read()
 print(contenido)
 archivo.write("Añadida línea 1\n")
