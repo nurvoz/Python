@@ -3,4 +3,5 @@ numbers = input().split()
 
 inversa = list(reversed(numbers))
 
-print(' '.join(inversa))
+#print(' '.join(inversa))
+print(inversa)

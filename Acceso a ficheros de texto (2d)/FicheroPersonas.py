@@ -1,10 +1,6 @@
 '''
 Crea un programa llamado FicheroPersonas.py que lea información de personas (nombre y edad) de
 un fichero de texto, y muestre por pantalla los datos de la persona más joven y más vieja del fichero. El
-3. Cierre de fichero
-4. Ejemplo
-Programación en Python
-Página 3 de 3
 formato del fichero será como el siguiente, y se deberá almacenar en una lista antes de procesar la
 información.
 '''

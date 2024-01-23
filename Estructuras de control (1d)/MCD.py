@@ -15,7 +15,6 @@ n2 = int(input("Introduce el segundo valor: "))
 
 while True:
     if n1 > n2:
-        cociente = n1 // n2
         resto = n1 % n2
         print(f"Dividimos {n1} / {n2}. Resto: {resto}")
         if resto == 0:
@@ -25,7 +24,6 @@ while True:
             print(f"Reemplazamos {n1} por {resto}")
             n1 = resto
     else:
-        cociente = n2 // n1
         resto = n2 % n1
         print(f"Dividimos {n2} / {n1}. Resto: {resto}")
         if resto == 0:
